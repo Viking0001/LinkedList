@@ -1,0 +1,14 @@
+/home/vojta/Programming/algoritmi/linkedList/bin/Debug/net9.0/linkedList
+/home/vojta/Programming/algoritmi/linkedList/bin/Debug/net9.0/linkedList.deps.json
+/home/vojta/Programming/algoritmi/linkedList/bin/Debug/net9.0/linkedList.runtimeconfig.json
+/home/vojta/Programming/algoritmi/linkedList/bin/Debug/net9.0/linkedList.dll
+/home/vojta/Programming/algoritmi/linkedList/bin/Debug/net9.0/linkedList.pdb
+/home/vojta/Programming/algoritmi/linkedList/obj/Debug/net9.0/linkedList.GeneratedMSBuildEditorConfig.editorconfig
+/home/vojta/Programming/algoritmi/linkedList/obj/Debug/net9.0/linkedList.AssemblyInfoInputs.cache
+/home/vojta/Programming/algoritmi/linkedList/obj/Debug/net9.0/linkedList.AssemblyInfo.cs
+/home/vojta/Programming/algoritmi/linkedList/obj/Debug/net9.0/linkedList.csproj.CoreCompileInputs.cache
+/home/vojta/Programming/algoritmi/linkedList/obj/Debug/net9.0/linkedList.dll
+/home/vojta/Programming/algoritmi/linkedList/obj/Debug/net9.0/refint/linkedList.dll
+/home/vojta/Programming/algoritmi/linkedList/obj/Debug/net9.0/linkedList.pdb
+/home/vojta/Programming/algoritmi/linkedList/obj/Debug/net9.0/linkedList.genruntimeconfig.cache
+/home/vojta/Programming/algoritmi/linkedList/obj/Debug/net9.0/ref/linkedList.dll
